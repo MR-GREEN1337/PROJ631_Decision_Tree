@@ -1,3 +1,6 @@
+[Link to a well-curated LInk](https://colab.research.google.com/drive/1RzSXARrodfAzv6iRJQQ5UKKswmadV0F6)
+
+
 # 🌳 Decision Tree Classifier 🌳
 
 Welcome to the Decision Tree Classifier project! 🎉
